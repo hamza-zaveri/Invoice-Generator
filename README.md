@@ -6,3 +6,4 @@ To Run the project
 npm install
 npm start
 ```
+you can view the site from [here](https://hamza-zaveri.github.io/Invoice-Generator/).
